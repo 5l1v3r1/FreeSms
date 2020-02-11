@@ -1,4 +1,3 @@
-
 # Free Sms
 
 ![IMG_20200211_224539](https://user-images.githubusercontent.com/59508497/74252477-5646e380-4d20-11ea-8671-df11d6e9c558.JPG)
@@ -31,6 +30,7 @@ $ pip2 install requests
 $ git clone https://github.com/Fukur0-3XP/FreeSms
 $ cd FreeSms
 $ python2 Sms.py
+```
 
 # Info
 ```
