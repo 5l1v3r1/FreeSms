@@ -1,5 +1,9 @@
 #!/usr/bin/python2
 
+# Creator :  ./FUKUR0-3XP
+# Team : Black Coders Satanic Exploiter Team ( BCA - X666X )
+# Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
+
 from time import sleep
 from bs4 import BeautifulSoup as Bs
 import mechanize, cookielib, random, urllib2, sys, re, os
